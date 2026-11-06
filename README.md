@@ -1,2 +1,3 @@
-# ISRPO-PR6-7-B
-Практическая 6–7 — репозиторий Б — Бура Артур Дмитриевич
+# ISRPO PR6-7 B
+
+Schedule filters: base
